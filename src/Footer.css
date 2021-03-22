@@ -1,0 +1,13 @@
+.footer {
+  text-align: center;
+  padding: 10px;
+}
+
+.footer__copyright {
+  color: var(--twitter-background);
+}
+
+.footer__link {
+  color: Black;
+  text-decoration-color: red;
+}
